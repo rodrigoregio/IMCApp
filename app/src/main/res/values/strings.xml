@@ -1,0 +1,12 @@
+<resources>
+    <string name="peso" translatable="false">Weight</string>
+    <string name="altura" translatable="false">Height</string>
+    <string name="result" translatable="false">"Result: "</string>
+    <string name="btnimc" translatable="false">Calculate BMI</string>
+    <string name="hintpeso" translatable="false">Enter with your weight!</string>
+    <string name="hintaltura" translatable="false">Enter with your height!</string>
+    <string name="share" translatable="false">Share Data!</string>
+    <string name="app_name" translatable="false">BMI</string>
+    <string name="about" translatable="false">About the app!</string>
+    <string name="appDescription" translatable="false">This application calculates the body mass index (BMI), based on weight and height, and return this dada to user. The user can share the data choosing where and whom to share. Application made for studies only, made with Java programming using the Android standard IDE (Android Studio).</string>
+</resources>

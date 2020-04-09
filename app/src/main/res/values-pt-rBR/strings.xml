@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="peso" translatable="false">Peso</string>
+    <string name="altura" translatable="false">Altura</string>
+    <string name="result" translatable="false">"Resultado: "</string>
+    <string name="btnimc" translatable="false">Calcular IMC</string>
+    <string name="hintpeso" translatable="false">Digite aqui seu peso!</string>
+    <string name="hintaltura" translatable="false">Digite aqui sua altura!</string>
+    <string name="share" translatable="false">Compartilhar dados</string>
+    <string name="about" translatable="false">Sobre o app!</string>
+    <string name="appDescription" translatable="false">Este aplicativo calcula o índice de massa corpórea (IMC), com base no peso e altura, e retorna estes dados ao usuário. O usuário pode compartilhar estes dados e escolher onde e a quem compartilhar. Aplicativo feito com propósito de estudos apenas, feito com programação Java utilizando a ide padrão Android (Android Studio).</string>
+</resources>

@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
                             .append(alt)
                             .append("\nIMC: ")
                             .append(imc);
-                    //.append("\n\n#RREGIO_DEV");
                     tvRes.setText(calculaDiagnostico(sb.toString(), calculo));
                 }
             }
@@ -60,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent sendIntent = new Intent();
                 sendIntent.setAction(Intent.ACTION_SEND);
-                sendIntent.putExtra(Intent.EXTRA_TEXT, tvRes.getText().toString());
+                sendIntent.putExtra(Intent.EXTRA_TEXT, tvRes.getText().toString()+"\n\n#RREGIO_DEV");
                 sendIntent.setType("text/plain");
 
                 Intent shareIntent = Intent.createChooser(sendIntent, null);
@@ -89,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void abreSobre(View view) {
-        Intent sobreIntent = new Intent();
+        Intent sobreIntent = new Intent(this, SobreActivity.class);
         startActivity(sobreIntent);
     }
 }

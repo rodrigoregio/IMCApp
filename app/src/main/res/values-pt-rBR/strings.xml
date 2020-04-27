@@ -9,5 +9,9 @@
     <string name="hintaltura" translatable="false">Digite aqui sua altura!</string>
     <string name="share" translatable="false">Compartilhar dados</string>
     <string name="about" translatable="false">Sobre o app!</string>
-    <string name="appDescription" translatable="false">Este aplicativo calcula o índice de massa corpórea (IMC), com base no peso e altura, e retorna estes dados ao usuário. O usuário pode compartilhar estes dados e escolher onde e a quem compartilhar. Aplicativo feito com propósito de estudos apenas, feito com programação Java utilizando a ide padrão Android (Android Studio).</string>
+    <string name="appDescription" translatable="false">Este aplicativo calcula o índice de massa corpórea (IMC), com base no peso e altura, e retorna estes dados ao usuário.\n\nO usuário pode compartilhar estes dados e escolher onde e a quem compartilhar.\n\nAplicativo feito com propósito de estudos apenas, feito com programação Java utilizando a ide padrão Android (Android Studio).\n\nSegue as minhas redes sociais.</string>
+    <string name="Back" translatable="false">Voltar á tela principal</string>
+    <string name="openFace" translatable="false">Acessar página do facebook do desenvolvedor</string>
+    <string name="openLinkedIn" translatable="false">Acessar página do Linkedin do desenvolvedor</string>
+    <string name="openGit" translatable="false">Acessar página do GitHub do desenvolvedor</string>
 </resources>

@@ -8,5 +8,9 @@
     <string name="share" translatable="false">Share Data!</string>
     <string name="app_name" translatable="false">BMI</string>
     <string name="about" translatable="false">About the app!</string>
-    <string name="appDescription" translatable="false">This application calculates the body mass index (BMI), based on weight and height, and return this dada to user. The user can share the data choosing where and whom to share. Application made for studies only, made with Java programming using the Android standard IDE (Android Studio).</string>
+    <string name="appDescription" translatable="false">This application calculates the body mass index (BMI), based on weight and height, and return this dada to user.\n\nThe user can share the data choosing where and whom to share.\n\nApplication made for studies only, made with Java programming using the Android standard IDE (Android Studio).</string>
+    <string name="Back" translatable="false">Back to main screen</string>
+    <string name="openFace" translatable="false">Open developer\'s Facebook Page</string>
+    <string name="openGit" translatable="false">Open developer\'s Git Hub Page</string>
+    <string name="openLinkedIn" translatable="false">Open developer\'s LinkedIn page</string>
 </resources>
